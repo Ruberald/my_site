@@ -1,0 +1,14 @@
+:root {
+  --dark-purple: #7B2869;
+  --purple: #9D3C72;
+  --light-purple: #C85C8E;
+  --peach: #FFBABA;
+}
+
+.window .title-bar {
+	background-color: var(--light-purple);
+}
+
+.window .window-pane {
+	background-color: var(--peach);
+}
